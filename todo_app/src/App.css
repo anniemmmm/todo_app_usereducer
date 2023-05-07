@@ -1,0 +1,33 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.todo_app_title{
+  color: rgb(0, 9, 2);
+  font-size: x-large;
+  font-family: 'Courier New', Courier, monospace;
+  background-color: rgb(230, 66, 66);
+}
+.text_title{
+  background-color: rgb(168, 181, 181);
+}
+
+.add_button{
+  color: rgb(13, 2, 0);
+  background-color: rgb(12, 179, 12);
+  font-size: medium;
+  border-color: black;
+}
+
+.text_todos{
+  color: rgb(11, 1, 1);
+  background-color: rgb(10, 225, 49);
+  border-style:dashed;
+  border-color: black;
+  border-radius: 50px;
+  font-size: larger;
+  font-style: initial;
+}
+
